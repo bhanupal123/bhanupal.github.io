@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name":"Bhanupal Singh Rathore",
+    "occupation":"FullStack Software Engineer",
+    "description":"I specialize in Full Stack development using JAVA, JavaScript, React, Redux , Node, Spring Boot, Hibernate, AngularJS. I always look for optimizing the code and enhancing the performance of the application. I am self motivated, good team player and a quick learner. If you are looking for a tech geek who is goal oriented, willing to learn new technologies, and who likes to get things done in time, then I am the man for the job.",
+    "image":"profilepic.jpg",
+    "bio":"Currently working as Software Engineer at Traform. I am a person constantly looking out to integrate technological learning with the managerial skills and how far would they make me better at my job and as a person. I like to work around multiple technologies. Currently playing with ReactJs , Redux and Node.js. I have interest in Big Data, Hadoop where my main goal is to achieve Big-Data Solutions using Hadoop, Spark and related BigData Technologies. ",
+    "contactmessage":"Do you want to contact me? Go Ahead Fill out this form.",
+    "email": "bhanupalsingh@gmail.com",
+    "phone": "9157988852",
+    "address":{
+      "street": "",
+      "city":"Bangalore",
+      "state":"Karnataka"
+    },
+    "website": "http://www.bhanupal.com",
+    "resumedownload":"https://drive.google.com/open?id=1hUHeQqI7UEN74MzIp8cMcUK0NYjNLkef",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/bhanupal.rathore",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"google-plus",
+        "url":"https://plus.google.com/+BhanupalSinghRathore",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/bhanupal-singh-b3070b9b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/bhanupal123",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Nirma University",
+        "degree":"BTech in Computer Science",
+        "graduated":"May 2017",
+	      "CGPA" : "8.01",
+        "description":"Object Orientated Programming, Database Management Systems, Data Structures, Algorithms, Operating System, Artificial Intelligence, Machine Learning, Big Data Analytics, Android."
+      }
+    ],
+    "work":[
+      {
+        "company":"Vital labs",
+        "title":"Jr. Software Developer.",
+        "years":"June 2017 - July 2018",
+        "split": "yes",
+        "description":"Mostly I worked for Bluetalon as Contract Basis. </br> 1. Patch Mangement:- version management for Bluetalon Software installation and rollback. </br> 2. Utilities:- Wrote several utilities for automation of manual work . parse several types of logs files from local as well as remote server and extract information from it based on time interval , date interval , keyword. </br> 3. Sql parser and sql query generation:- Exploring the javascript parser for sql query. The git project sqllite-parser converts the sql query to AST. Me and Unmesh wrote a javascript program that partially converts the AST back to sql statement. </br> 4. Bluetalon GUI:- Responsible of stability of Bluetalon product. Wrote new REST APIs, Migrating existing servlet calls to REST APIs. Worked on optimizing the code like used datatable for rendering data in table."
+      },{
+        "company":"Freelancing",
+        "title":"Developer",
+        "years":"",
+        "description":"I Developed an Android for a Health Based startup. I was responsible for UI Design , Architecture of app, Development of app and testing ."
+      },
+      {
+        "company":"Infosys",
+        "title":"Intern",
+        "years":"January 2017 - May 2017",
+        "description":"I have completed my internship at Infosys as a part of my bachelor program. Initially at Infosys, I was professionally trained in different web technologies including REST API, AngularJS, Hibernate, JAVA, SQL, and Agile Methodology. After two months of training, I was assigned to a group project , 'Question Bank Archival System' using Scrum Agile Methodology. I was responsible for full stack development of a website which includes aspects such as interactive UI, REST APIs, object relational mapping, and database designing."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"75%"
+      },{
+        "name":"JavaScript",
+        "level":"80%"
+      },{
+        "name":"Python",
+        "level":"70%"
+      },{
+        "name":"Spring Boot",
+        "level":"70%"
+      },{
+        "name":"Hibernate",
+        "level":"70%"
+      },{
+        "name":"ReactJs + Redux",
+        "level":"80%"
+      },{
+        "name":"Hadoop + Spark",
+        "level":"70%"
+      },{
+        "name":"Android",
+        "level":"50%"
+      },{
+        "name":"Shell script",
+        "level":"80%"
+      },{
+        "name":"Node.js",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },	
+	{
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Fragma Task",
+        "category":"Task of Fragma for Hadoop Developer Role",
+        "image":"Fragma.png",
+        "url":"https://github.com/bhanupal123/FragmaTask"
+      },
+      {
+        "title":"Youtube Hadoop Data Analysis ",
+        "category":"(offline now) Basic Query on Youtube Data",
+        "image":"Youtube.png",
+        "url":"https://github.com/bhanupal123/youtubeHadoopAnalysis"
+      },
+      {
+        "title":"Twitter Data Analysis",
+        "category":"Live Twitter Streaming and sentiment of tweets",
+        "image":"Twitter.jpeg",
+        "url":"https://github.com/bhanupal123/twitterAnalysisScala"
+      },
+      {
+        "title":"Machine learning practice",
+        "category":"Sample project on ML",
+        "image":"bhanu.png",
+        "url":"https://github.com/bhanupal123/MachineLearningPractice"
+      },
+      {
+        "title":"Online voting app",
+        "category":"Voting Android App",
+        "image":"votingSystem.mp4",
+        "url":"https://github.com/bhanupal123/onlineVotingApp"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I know Bhanupal since we were in college. He is an excellent coder with in depth knowledge about algorithms and data structures. He has great aptitude for learning new things he learned about Hadoop, Spark and other big data frameworks on his own during college days. He is always up for a challenge with never give up attitude.",
+        "user":"Jaimin Shah System Engineer ( TCS Research & Innovation- TRDDC)"
+      }
+    ]
+  }
+}

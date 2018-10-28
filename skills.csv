@@ -1,0 +1,36 @@
+id,value,color
+Bhanu,
+Bhanu.Front-End,
+Bhanu.Front-End.Design,3,#808080
+Bhanu.Front-End.HTML & CSS,4,#E54F24
+Bhanu.Front-End.SVG,1.5,#FF9900
+Bhanu.Front-End.Bootstrap,3,#563B7E
+Bhanu.Front-End.JavaScript World,
+Bhanu.Front-End.JavaScript World.JavaScript,5,#D6BA33
+Bhanu.Front-End.JavaScript World.ReactJs,4,#D6BA33
+Bhanu.Front-End.JavaScript World.Redux,4,#D6BA33
+Bhanu.Front-End.JavaScript World.Angularjs,2.5,#D6BA33
+Bhanu.Front-End.JavaScript World.JQuery,4,#1169AE
+Bhanu.Front-End.JavaScript World.D3 js,2.5,#F6854D
+Bhanu.Back-End,
+Bhanu.Back-End.PHP,1.5,#617CBE
+Bhanu.Back-End.C++,2,#0073AD
+Bhanu.Back-End.SQL,3.5,#E58E00
+Bhanu.Back-End.Java World,
+Bhanu.Back-End.Java World.Java SE,4,#EB2C2F
+Bhanu.Back-End.Java World.JSP,4,#EB2C2F
+Bhanu.Back-End.Java World.Hibernate,3.5,#59666C
+Bhanu.Back-End.Java World.Spring MVC / Boot,3,#6DB33F
+Bhanu.Back-End.JavaScript World,
+Bhanu.Back-End.JavaScript World.nodeJs,4,#D6BA33
+Bhanu.Databases,
+Bhanu.Databases.MySQL/MariaDb,3.0,#00618A
+Bhanu.Databases.Postgresql,3.5,#00618A
+Bhanu.Databases.MongoDb,4,#00618A
+Bhanu.Databases.Hive,2.5,#00618A
+Bhanu.Databases.Impala,2.5,#00618A
+Bhanu.SysAdmin,
+Bhanu.SysAdmin.shellScript,4.5,#040404
+Bhanu.BigData,
+Bhanu.BigData.Hadoop,3,#D6BA33,
+Bhanu.BigData.Spark,4,#D6BA33,
